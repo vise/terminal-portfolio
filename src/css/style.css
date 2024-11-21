@@ -199,3 +199,15 @@ a:hover {
     margin-left: 8px;
   }
 }
+
+.prompt-user {
+  color: var(--prompt-1);
+}
+
+.prompt-default {
+  color: var(--prompt-default);
+}
+
+.prompt-host {
+  color: var(--prompt-2);
+}
