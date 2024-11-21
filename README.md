@@ -14,13 +14,6 @@
 - **[Esc]** to clear the input line.
 - **[↑][↓]** to scroll through your command history.
 
-## ???
-
-<div align="center">
-  <img alt="banner" src="https://raw.githubusercontent.com/nasan016/webshell/main/res/secret.png">
-</div>
-How did we get here?
-
 ## Configuration
 
 Most of the configuration is done in the `config.json` file.

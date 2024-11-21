@@ -19,31 +19,5 @@
     "lens.protocol": "viggos.lens"
   },
   "aboutGreeting": "Hi I'm Nader. I'm a full stack product engineer specializing in high impact developer marketing.",
-  "projects": [
-    [
-      "React Native AI",
-      "Full stack framework for building cross-platform mobile AI apps.",
-      "https://github.com/dabit3/react-native-ai"
-    ],
-    [
-      "React Native Elements",
-      "Cross-Platform React Native UI Toolkit.",
-      "https://github.com/react-native-elements/react-native-elements"
-    ],
-    [
-      "Pinecone Semantic Search",
-      "Embeds files into vectors, stores on Pinecone, enables semantic search via GPT & Langchain w/Next.js.",
-      "https://github.com/dabit3/semantic-search-nextjs-pinecone-langchain-chatgpt"
-    ],
-    [
-      "Lens Widgets",
-      "Integration widgets for Lens Protocol",
-      "https://github.com/lens-protocol/lens-widgets"
-    ],
-    [
-      "All",
-      "View all of the projects I'm working on.",
-      "https://github.com/dabit3"
-    ]
-  ]
+  "projects": [["Codez", "Sometimes i commit.", "https://github.com/vise/"]]
 }
